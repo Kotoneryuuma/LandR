@@ -1,0 +1,6 @@
+templates 
+rendering
+creating db
+
+Object name を認識しなかったら from .models import User があルカどうか調べる
+
